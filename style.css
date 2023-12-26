@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 95vh;
+    background-color: blueviolet;
+    font-family:   sans-serif;
+}
+
+.container{
+display: flex;
+align-items: center;
+flex-direction: column;
+box-sizing: 4px 8px 20px rgba(0,0,0,0.5);
+padding: 25px;
+border-radius: 15px;
+}
+h3{
+font-size:25px;
+}
+input{
+    height: 25px;
+    font: 20px;
+}
+ button{
+    font-size: 20px;
+    background-color: aquamarine;
+    color: white;
+ }
+ p{
+    font-size: 20px;
+ }
